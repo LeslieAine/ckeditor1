@@ -7,5 +7,9 @@
   "devDependencies": {
     "ckeditor5": "46.0.1",
     "vite": "^6.3.3"
+  },
+  "dependencies": {
+    "@types/node": "^24.2.1",
+    "typescript": "^5.9.2"
   }
 }

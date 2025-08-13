@@ -9,6 +9,7 @@
     "vite": "^6.3.3"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-inspector": "^5.0.0",
     "@types/node": "^24.2.1",
     "ckeditor5-premium-features": "^46.0.1",
     "typescript": "^5.9.2"

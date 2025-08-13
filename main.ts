@@ -31,6 +31,8 @@ import {
     Template
 } from 'ckeditor5-premium-features';
 
+// @ts-ignore: CKEditorInspector is not typed yet
+import CKEditorInspector from '@ckeditor/ckeditor5-inspector';
 
 import 'ckeditor5/ckeditor5.css';
 import 'ckeditor5-premium-features/ckeditor5-premium-features.css';
